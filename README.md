@@ -25,11 +25,7 @@ bitcoin-lstm-prediction/
 ├── configs.json                  # Configuration parameters
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
-├── data/                         # Directory for processed data
-│   ├── clean_data.h5             # Preprocessed training data
-│   └── predictions.h5            # Model predictions output
-└── models/                       # Directory for saved models
-    └── bitcoin_lstm_model.h5     # Trained model weights and architecture
+
 ```
 
 ## Installation
